@@ -3,12 +3,6 @@ Research topic repository
 
 
 
----
-layout: page
-title: "Research Topic Repository"
-permalink: /research/
----
-
 ![Logo](assets/img/logo-placeholder.png)
 
 # Research Topic Repository
